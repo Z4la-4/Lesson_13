@@ -1,0 +1,1 @@
+{'user_name': 'z', 'ime_pijace': 'c', 'zing_coefficient': 1, 'emotion': 3, 'weather': 4, 'share_status': 'ja'}
